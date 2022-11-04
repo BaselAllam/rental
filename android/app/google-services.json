@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516403576662",
+    "project_id": "rental-cff3d",
+    "storage_bucket": "rental-cff3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516403576662:android:48035b131274d04b4220f7",
+        "android_client_info": {
+          "package_name": "com.example.rental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516403576662-skvtmvlr5mu32vgtfsqh7692attu4fot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_pooYAiE2oTbbXK-viY32Bg17_pA-sao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516403576662-skvtmvlr5mu32vgtfsqh7692attu4fot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
